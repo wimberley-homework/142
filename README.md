@@ -1,5 +1,5 @@
 # CS-142
 Object Oriented Programming
 
-Winter Quarter
+Winter 2020 Quarter
 
